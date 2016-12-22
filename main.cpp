@@ -1,4 +1,4 @@
-#include "graph.h"
+#include "graph.cpp"
 
 using namespace std;
 
