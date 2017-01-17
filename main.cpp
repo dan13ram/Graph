@@ -42,27 +42,6 @@ int main(){
         cout<<"'"<<endl;
         cout<<"Distance from 'a' to 'h' is "<<distance["h"].first<<" and parent is '"<<distance["h"].second;
         cout<<"'"<<endl;
-//        temp->MSTKruskal();
-//        cout<<endl;
-//
-//        Graph *temp2=new Graph();
-//        temp2->addvertex("a");
-//        temp2->addvertex("b");
-//        temp2->addvertex("c");
-//        temp2->addvertex("d");
-//        temp2->addvertex("e");
-//        temp2->addvertex("f");
-//        temp2->addedge("a","b",4);
-//        temp2->addedge("a","f",2);
-//        temp2->addedge("f","b",3);
-//        temp2->addedge("c","b",6);
-//        temp2->addedge("c","f",1);
-//        temp2->addedge("f","e",4);
-//        temp2->addedge("d","e",2);
-//        temp2->addedge("d","c",3);
-//        temp2->MSTPrim("a");
-//        cout<<endl;
-
         return 0;
 
 }
